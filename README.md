@@ -22,3 +22,14 @@ The website works by capturing the value of the user’s input after it is enter
 
 ### Filtered by State, Date, and City
 ![alt text](https://github.com/zimmer3-iii/UFOs/blob/main/reference_images/Results%20Filter%20by%20Date_State_City.png)
+
+## Summary
+
+The dynamic searching and displaying of the ufo sightings work pretty well if you know what you are looking for and how to enter the data
+into the filter search.
+
+### Recommendations for improvement:
+- The search only uses the abbrevations for the states, create the ability to search by state names.
+- The search is case sensitive, this could be frustrating for the user if unaware.
+- The ability filter by Shape and Duration
+- Have the filters have auto-complete suggestions when typing in filter entries.
